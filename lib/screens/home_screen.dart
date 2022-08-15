@@ -31,7 +31,7 @@ void onTap(int index){
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+    //  backgroundColor: Colors.white,
       body: Screens[currentIndex],
       bottomNavigationBar: BottomNavigationBar(
         unselectedFontSize: 0,
