@@ -2,8 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:travel_app/screens/business_screen.dart';
 import 'package:travel_app/screens/favorite_screen.dart';
 import 'package:travel_app/screens/notification_screen.dart';
+ import 'package:travel_app/screens/main_screen.dart';
 
-import 'main_sceen.dart';
+
+import 'package:travel_app/screens/main_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({Key? key}) : super(key: key);
